@@ -1,0 +1,7 @@
+to change full apprearance of mew app
+
+1.change name by going res/values/string.xml
+2. package name by going gradle scripts/build.gradle(module) and change applicationId
+3. change project name by going gradle scripts/settings.gradle and change rootProject.name
+4. change icon by right click on res folder/select image assets/ and choose images
+5. splash scree change by putting logo.png in res/drawable

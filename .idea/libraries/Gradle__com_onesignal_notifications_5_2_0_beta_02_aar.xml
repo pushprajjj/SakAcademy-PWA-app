@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.onesignal:notifications:5.2.0-beta-02@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5b64d8bf6b4bcd00d1ddee9c8c9e17ee/transformed/notifications-5.2.0-beta-02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b64d8bf6b4bcd00d1ddee9c8c9e17ee/transformed/notifications-5.2.0-beta-02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b64d8bf6b4bcd00d1ddee9c8c9e17ee/transformed/notifications-5.2.0-beta-02/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
